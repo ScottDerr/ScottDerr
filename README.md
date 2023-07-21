@@ -1,4 +1,4 @@
-<h1 color = blue>Hi</h1> 
+<h1>Hi</h1> 
 <p>Interested in programming and this is a repository for my CS50x notes, projects and tests.
 </p>
 <!---
